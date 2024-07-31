@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/bin/Debug/net7.0/AddessDecypher
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/bin/Debug/net7.0/AddessDecypher.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/bin/Debug/net7.0/AddessDecypher.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/bin/Debug/net7.0/AddessDecypher.dll
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/bin/Debug/net7.0/AddessDecypher.pdb
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.dll
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/refint/AddessDecypher.dll
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.pdb
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/AddessDecypher.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/AddessDecypher/AddessDecypher/obj/Debug/net7.0/ref/AddessDecypher.dll
