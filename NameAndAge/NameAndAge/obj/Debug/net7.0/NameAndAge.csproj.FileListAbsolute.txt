@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/bin/Debug/net7.0/NameAndAge
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/bin/Debug/net7.0/NameAndAge.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/bin/Debug/net7.0/NameAndAge.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/bin/Debug/net7.0/NameAndAge.dll
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/bin/Debug/net7.0/NameAndAge.pdb
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.dll
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/refint/NameAndAge.dll
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.pdb
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/NameAndAge.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/NameAndAge/NameAndAge/obj/Debug/net7.0/ref/NameAndAge.dll

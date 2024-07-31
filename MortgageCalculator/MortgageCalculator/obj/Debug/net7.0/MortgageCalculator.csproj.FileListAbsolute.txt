@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/bin/Debug/net7.0/MortgageCalculator
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/bin/Debug/net7.0/MortgageCalculator.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/bin/Debug/net7.0/MortgageCalculator.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/bin/Debug/net7.0/MortgageCalculator.dll
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/bin/Debug/net7.0/MortgageCalculator.pdb
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.dll
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/refint/MortgageCalculator.dll
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.pdb
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/MortgageCalculator.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/MortgageCalculator/MortgageCalculator/obj/Debug/net7.0/ref/MortgageCalculator.dll

@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/bin/Debug/net7.0/myfirstapp
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/bin/Debug/net7.0/myfirstapp.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/bin/Debug/net7.0/myfirstapp.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/bin/Debug/net7.0/myfirstapp.dll
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/bin/Debug/net7.0/myfirstapp.pdb
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.dll
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/refint/myfirstapp.dll
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.pdb
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/myfirstapp.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/myfirstapp/myfirstapp/obj/Debug/net7.0/ref/myfirstapp.dll
