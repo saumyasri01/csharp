@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/bin/Debug/net7.0/Calculorapp2.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/bin/Debug/net7.0/Calculorapp2.dll
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/bin/Debug/net7.0/Calculorapp2.pdb
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.dll
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/refint/Calculorapp2.dll
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.pdb
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/ref/Calculorapp2.dll
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/bin/Debug/net7.0/Calculorapp2
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/bin/Debug/net7.0/Calculorapp2.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/Calculorapp2/Calculorapp2/obj/Debug/net7.0/Calculorapp2.genruntimeconfig.cache
