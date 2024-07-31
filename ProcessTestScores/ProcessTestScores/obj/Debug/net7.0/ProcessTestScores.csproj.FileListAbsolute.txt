@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/bin/Debug/net7.0/ProcessTestScores
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/bin/Debug/net7.0/ProcessTestScores.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/bin/Debug/net7.0/ProcessTestScores.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/bin/Debug/net7.0/ProcessTestScores.dll
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/bin/Debug/net7.0/ProcessTestScores.pdb
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.dll
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/refint/ProcessTestScores.dll
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.pdb
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ProcessTestScores.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/ProcessTestScores/ProcessTestScores/obj/Debug/net7.0/ref/ProcessTestScores.dll

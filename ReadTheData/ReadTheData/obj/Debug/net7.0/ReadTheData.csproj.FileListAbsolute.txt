@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/bin/Debug/net7.0/ReadTheData
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/bin/Debug/net7.0/ReadTheData.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/bin/Debug/net7.0/ReadTheData.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/bin/Debug/net7.0/ReadTheData.dll
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/bin/Debug/net7.0/ReadTheData.pdb
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.dll
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/refint/ReadTheData.dll
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.pdb
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ReadTheData.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/ReadTheData/ReadTheData/obj/Debug/net7.0/ref/ReadTheData.dll
