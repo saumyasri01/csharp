@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/bin/Debug/net7.0/helloapp
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/bin/Debug/net7.0/helloapp.deps.json
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/bin/Debug/net7.0/helloapp.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/bin/Debug/net7.0/helloapp.dll
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/bin/Debug/net7.0/helloapp.pdb
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.dll
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/refint/helloapp.dll
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.pdb
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/helloapp.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/csharp/helloapp/obj/Debug/net7.0/ref/helloapp.dll

@@ -1,0 +1,15 @@
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/bin/Debug/net7.0/FavoriteMovies
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/bin/Debug/net7.0/FavoriteMovies.deps.json
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/bin/Debug/net7.0/FavoriteMovies.runtimeconfig.json
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/bin/Debug/net7.0/FavoriteMovies.dll
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/bin/Debug/net7.0/FavoriteMovies.pdb
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.csproj.AssemblyReference.cache
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.AssemblyInfoInputs.cache
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.AssemblyInfo.cs
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.csproj.CoreCompileInputs.cache
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.dll
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/refint/FavoriteMovies.dll
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.pdb
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/FavoriteMovies.genruntimeconfig.cache
+/Users/saumya-srivatsava/Desktop/FavoriteMovies/FavoriteMovies/obj/Debug/net7.0/ref/FavoriteMovies.dll

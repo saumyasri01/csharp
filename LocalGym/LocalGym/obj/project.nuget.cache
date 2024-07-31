@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "HBzZRrQIMFmt7FBCbEiZidASatGeFrkmT/By1I2H7FKL+z0wmlm1p36udrgyrcurlM5VFXlrLOWxgSthStNZHw==",
+  "success": true,
+  "projectFilePath": "/Users/saumya-srivatsava/Desktop/csharp/LocalGym/LocalGym/LocalGym.csproj",
+  "expectedPackageFiles": [
+    "/Users/saumya-srivatsava/.nuget/packages/microsoft.aspnetcore.openapi/7.0.18/microsoft.aspnetcore.openapi.7.0.18.nupkg.sha512",
+    "/Users/saumya-srivatsava/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/saumya-srivatsava/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/saumya-srivatsava/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/saumya-srivatsava/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/saumya-srivatsava/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/saumya-srivatsava/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
